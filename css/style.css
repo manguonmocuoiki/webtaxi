@@ -111,7 +111,7 @@ ul {
 .list li {
     overflow: hidden;
 }
-
+/*The Anh*/
 .list_count {
     float: left;
     text-align: center;
@@ -127,7 +127,7 @@ ul {
 .list li .text1 {
     margin-bottom: 3px;
 }
-
+/*The Anh*/
 .list li+li {
     margin-top: 19px;
 }
@@ -225,14 +225,16 @@ a:hover {
 .center {
 	text-align: center;
 }
+/*The Anh*/
 .wrapper, .extra_wrapper {
 	overflow: hidden;
 }
+
 .clear {
 	float: none !important;
 	clear: both;
 }
-
+/*The Anh*/
 .nowrap {
     white-space: nowrap;
 }
