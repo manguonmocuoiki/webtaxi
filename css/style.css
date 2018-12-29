@@ -31,7 +31,7 @@ body {
     color: #878787;
     font: 14px/20px 'Open Sans', sans-serif;
 }
-
+/*thanhdat */
 .ic {
 	border:0;
 	float:right;
@@ -228,6 +228,7 @@ a:hover {
 .wrapper, .extra_wrapper {
 	overflow: hidden;
 }
+/* thanhdat */
 .clear {
 	float: none !important;
 	clear: both;
@@ -367,7 +368,7 @@ header h1 a img {
 }
 
 /**Content**/
-
+/* thanhdat */
 .content {
     padding-bottom: 113px;
 }
@@ -449,7 +450,7 @@ header h1 a img {
     border-width: 27px 0 0 40px;
     border-color: #cfcfd0 transparent transparent transparent;
 }
-
+/* thanhdat */
 .gallery {
     overflow: hidden;
     padding-top: 27px;
@@ -475,6 +476,7 @@ a.gal img {
 a.gal:hover img {
     opacity: 0.2;
 }
+/* thanhdat*/
 
 .box {
     margin-bottom: 23px;
