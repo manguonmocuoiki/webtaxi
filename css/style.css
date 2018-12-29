@@ -293,7 +293,7 @@ header h1 a img {
     line-height: 48px;
     margin-bottom: 9px;
 }
-
+/*anh tuan*/
 .banner img {
     position: relative;
     top: -1px;
@@ -312,7 +312,7 @@ header h1 a img {
 .banner a:hover {
     color: #6b6b6c;
 }
-
+/*ket thuc*/
 .c_phone {
     font-family: 'Roboto Condensed', sans-serif;
     position: relative;
@@ -666,11 +666,11 @@ footer {
 }
  .map figure {
  height: auto !important;
-}
+}/*Anh Tuan*/
  .extra_wrapper {
  overflow: visible;
 }
-
+/* Ket thuc*/
 .map figure {
 	margin-bottom: 15px;
 }
