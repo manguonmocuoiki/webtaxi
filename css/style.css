@@ -31,7 +31,7 @@ body {
     color: #878787;
     font: 14px/20px 'Open Sans', sans-serif;
 }
-
+/* phan nay la cua Hen ta*/
 .ic {
 	border:0;
 	float:right;
@@ -44,7 +44,7 @@ body {
 	overflow:hidden;
 	padding:0
 }
-
+/*het phan la cua hen ta*/
 strong {
 	font-weight: 700;
 }
